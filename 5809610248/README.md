@@ -3,6 +3,7 @@ I'm choosing topic about "Facebook Scalability" on "News Feed Feature"
 
 ## About File
 For document please read on [Facebook_NewsFeed_Scalability](https://github.com/CS447-CSTU-12560/FinalProjectRepo/blob/master/5809610248/Facebook_NewsFeed_Scalability.pdf)
+
 Presentation slide [slide](https://github.com/CS447-CSTU-12560/FinalProjectRepo/blob/master/5809610248/Keynote.key)
 
 ## Authors
